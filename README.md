@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Hello I'm pushing a new update
 
 <!--
 **MandyMarie0406/MandyMarie0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
